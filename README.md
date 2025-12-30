@@ -2,6 +2,8 @@
 
 A repository for tracking and fixing bugs in the Ontime codebase.
 
+> **🚀 NEW USER? Start with [START_HERE.md](START_HERE.md) for the fastest setup!**
+
 ## Getting Started
 
 ### Prerequisites
