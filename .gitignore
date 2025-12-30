@@ -74,7 +74,6 @@ artifacts/
 
 # Logs
 logs/
-*.log
 
 # Site-specific (if needed)
 # Uncomment these if you want to exclude certain wwwroot files

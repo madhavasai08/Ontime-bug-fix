@@ -19,7 +19,7 @@ This guide is specifically for pushing your Ontime code from:
 Open Command Prompt or Git Bash and run:
 ```bash
 git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+git config --global user.email "youremail@example.com"
 ```
 
 ### Step 3: Choose Your Approach
@@ -169,7 +169,7 @@ git status
 git diff
 
 # Undo changes to a file
-git checkout -- filename
+git restore filename
 
 # Update from GitHub
 git pull
